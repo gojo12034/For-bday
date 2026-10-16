@@ -2,16 +2,16 @@ import { useEffect, useRef, useState } from "react";
 import { animate } from "animejs";
 import { useNavigate } from "react-router-dom";
 const MESSAGES = [
-  "Will you be my girlfriend? 💕",
+  "Will you dance with me? 💃🕺",
   "Are you sure? 🥺",
   "That's not it bestie 😭",
   "Why are you like this 😤",
-  "babe please 🙏",
-  "ok fine try again 😒",
+  "love please 🙏",
+  "ok fine try again 🤨",
   "YOU KEEP MISSING 💀",
   "I'm not giving up 😤",
-  "Last warning... 👀",
-  "The No button has left the chat 🤭",
+  "Last warning... 🙄",
+  "The No button has left the chat haha 🤭",
 ];
 const CONFETTI_PIECES = Array.from({ length: 30 }, (_, i) => ({
   id: i,
@@ -28,7 +28,7 @@ const CONFETTI_PIECES = Array.from({ length: 30 }, (_, i) => ({
 
 const BALLOONS = Array.from({ length: 8 }, (_, i) => ({
   id: i,
-  emoji: ["🎈", "🎀", "💕", "🌹", "✨", "🎊", "💝", "🎉"][i],
+  emoji: ["🎈", "🎂", "💕", "🌹", "✨", "🎊", "💝", "🎉"][i],
   left: `${10 + i * 12}%`,
   duration: `${3 + Math.random() * 2}s`,
   delay: `${Math.random() * 1.5}s`,
@@ -231,7 +231,7 @@ export default function Envelope() {
               zIndex: 1,
             }}
           >
-            She said Yes! 💕
+            She said Yes! 🫶
           </p>
           <p
             style={{
@@ -322,7 +322,7 @@ export default function Envelope() {
               marginBottom: "0.75rem",
             }}
           >
-            Resistance is futile 💕
+            Resistance is futile 😁
           </p>
         )}
 
