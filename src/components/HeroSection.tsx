@@ -5,7 +5,7 @@ export default function HeroSection() {
   const titleRef = useRef<HTMLHeadingElement>(null);
   const emojiRef = useRef<HTMLSpanElement>(null);
 
-  const titleText = "For My Favourite Person";
+  const titleText = "For My Favourite Person, Happy Birthday! 🎂";
 
   useEffect(() => {
     if (titleRef.current) {
