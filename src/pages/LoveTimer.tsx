@@ -1,4 +1,4 @@
-```tsx
+
 import { useEffect, useRef, useState } from "react";
 import { animate, stagger } from "animejs";
 // Journey starts :)
