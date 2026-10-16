@@ -7,7 +7,7 @@ export default function YesPage() {
   const titleRef = useRef<HTMLHeadingElement>(null);
   const subtitleRef = useRef<HTMLParagraphElement>(null);
   const emojiRef = useRef<HTMLSpanElement>(null);
-  const titleText = "My Girlfriend";
+  const titleText = "Happy Birthday!";
 
   useEffect(() => {
     // Animate the title letters
@@ -126,7 +126,7 @@ export default function YesPage() {
                 whiteSpace: "nowrap",
               }}
             >
-              💝
+              🤍
             </span>
           </div>
 
