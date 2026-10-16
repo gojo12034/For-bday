@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from "react";
 import { animate, stagger } from "animejs";
 // Journey starts :)
-const START_DATE = new Date("2026-10-23T00:00:00");
+
 
 function getElapsed() {
   const now = new Date();
