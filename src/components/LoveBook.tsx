@@ -43,13 +43,12 @@ const PAGES = [
     ],
   },
   {
-    title: "My Promises to You",
+    title: "My Birthday Wish to You",
     emoji: "🕊️",
     content: [
-      "I promise to stand beside you, no matter what life brings our way.",
-      "I promise to support your dreams, respect your feelings, and always make you feel valued and loved. Not just on the good days, but especially on the hard ones.",
-      "I want us to build something that feels peaceful, safe, and real.",
-      "You deserve that kind of love. And I intend to give it to you  every single day.",
+      "I wish you a life filled with happiness, peace, and all the love you deserve. I promise to support your dreams, respect your feelings, and stand beside you through every high and low.",
+      "I hope we continue to build something peaceful, safe, and real—something that makes us both feel valued and loved.",
+      "You deserve all the beautiful things life has to offer, and I promise to keep choosing you and loving you every single day. ❤️",
     ],
   },
   {
