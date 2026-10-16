@@ -102,7 +102,7 @@ export default function HeroSection() {
         }}
       >
         My love for you is as infinite as the hearts floating around — and this
-        is just the beginning Happy Birthday🤍 
+        is just the beginning 🤍 
       </p>
 
       {/* Line 2 */}
