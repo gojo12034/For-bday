@@ -87,7 +87,7 @@ export default function YesPage() {
               marginBottom: "1rem",
             }}
           >
-            — she said yes —
+            — 🕺let's dance💃—
           </p>
 
           <div
