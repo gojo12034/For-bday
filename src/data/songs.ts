@@ -15,11 +15,6 @@ export const FEATURED_SONGS = [
     artist: "Buck Owens",
   },
   {
-    id: "6tFM-QTzmxU",
-    title: "O Meri Laila",
-    artist: "Atif Aslam",
-  },
-  {
     id: "h9l4YS4h1Vq",
     title: "Honey Pie",
     artist: "JAWNY",
