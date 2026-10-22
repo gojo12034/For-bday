@@ -15,11 +15,6 @@ export const FEATURED_SONGS = [
     artist: "Buck Owens",
   },
   {
-    id: "h9l4YS4h1Vq",
-    title: "Honey Pie",
-    artist: "JAWNY",
-  },
-  {
     id: "PT2_F-1esPk",
     title: "Closer",
     artist: "The Chainsmokers",
